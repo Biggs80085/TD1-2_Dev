@@ -1,0 +1,38 @@
+{
+    "series_preferees": [
+      {
+        "nom": "Breaking Bad",
+        "note": 9.5,
+        "image": "/Breaking_Bad_logo.svg.png",
+        "donnees": {
+          "genre": "Drame",
+          "annee_de_sortie": 2008,
+          "createurs": ["Vince Gilligan"],
+          "acteurs_principaux": ["Bryan Cranston", "Aaron Paul"]
+        }
+      },
+      {
+        "nom": "Game of Thrones",
+        "note": 8.8,
+        "image": "/gameOfThrones.jfif",
+        "donnees": {
+          "genre": "Fantasy",
+          "annee_de_sortie": 2011,
+          "createurs": ["David Benioff", "D. B. Weiss"],
+          "acteurs_principaux": ["Emilia Clarke", "Kit Harington"]
+        }
+      },
+      {
+        "nom": "Stranger Things",
+        "note": 8.7,
+        "image": "/stranger_things_logo.png",
+        "donnees": {
+          "genre": "Science-fiction",
+          "annee_de_sortie": 2016,
+          "createurs": ["The Duffer Brothers"],
+          "acteurs_principaux": ["Millie Bobby Brown", "Finn Wolfhard"]
+        }
+      }
+    ]
+  }
+  
