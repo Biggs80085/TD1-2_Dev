@@ -1,12 +1,6 @@
-import { useState } from 'react'
-//import reactLogo from './assets/react.svg'
-//import viteLogo from '/vite.svg'
 import './Cadre.css'
-//import image from '/gameOfThrones.jfif'
 
 const Cadre = ({ serie }) => {
-  //const [count, setCount] = useState(0)
-  // const test = image
   return (
     <>
       <div class="cadre">
