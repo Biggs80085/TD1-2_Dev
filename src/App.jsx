@@ -91,7 +91,7 @@ function App() {
 
   const [count, setCount] = useState(0);
   const [value, setValue] = useState(1);
-  const [seconds, setSeconds] = useState(6);
+  const [seconds, setSeconds] = useState(60);
 
   const increment = () => {
     setCount(count + value);
